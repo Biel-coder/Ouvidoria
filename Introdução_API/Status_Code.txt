@@ -1,0 +1,12 @@
+    Serve basicamente para dizer oque ocorreu na requisição. Ou seja:
+
+- Houve algum erro na requisição ?
+- A requisição foi não autorizada ?
+- Houve alguma falha no processamento do servidor ?
+
+    O status_Code possui representações numéricas diferentes para qualificar \n
+    uma determinada ação:
+
+- 404: Requisição não encontrada
+- 401: Requisição não autorizada
+| Para mais informações, acessar: https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_de_estado_HTTP

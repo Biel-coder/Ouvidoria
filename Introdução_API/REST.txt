@@ -1,0 +1,7 @@
+    É um padrão de desenvolvimento de webServices. São 5 regras:
+
+- 1: Cliente servidor
+- 2: Stateless (Quer dizer que não deve guardar estado do cliente, ou seja, pega a requisição do cliente, retorna e depois 'esquece')
+- 3: Cacheável
+- 4: Saber trabalhar com camadas
+- 5: Interface uniforme e direta

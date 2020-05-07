@@ -1,0 +1,7 @@
+    É uma forma de dizer como você quer fazer sua requisição. Alguns verbos HTTP: \n
+
+  GET -> É um tipo de requisição comum, ao colocar um link de um site por exemplo. O principal objetivo dessa requisição é receber os dados do servidor, seja um json, html, xml, arquivos.
+  POST -> O objetivo é criar novas coisas. É muito utilizado em formulários. NÃO PODE SER USADO VIA LINK
+  PUT -> A função é atualizar os dados completamente, ou seja, serve para edição.
+  PATCH -> A função é atualizar os dados parcialmente.
+  DELETE -> Serve para deletar, como o próprio nome diz;
