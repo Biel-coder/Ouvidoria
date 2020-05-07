@@ -1,2 +1,2 @@
 Estou fazendo este projeto sem pastas, pois houve diversas alterações nos arquivos e diretórios, e pra não afetar no tempo
-resolvi não criar no momento elas, porém futuramente irei colocar pastas e deixarei mais organizado!
+resolvi não criar no momento elas, porém futuramente irei coloca-las e deixarei mais organizado!
