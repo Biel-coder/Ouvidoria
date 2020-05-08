@@ -1,5 +1,0 @@
-   O HTTP é um PROTOCOLO DE TRANSFERÊNCIA DE DADOS, que permite que o usuário faça \n
-requisições para um servidor(O da Google, por exemplo).
-   Ou seja, ao fazer uma pesquisa no google "Oque é Javascript", você irá está \n
-fazendo uma requisição ao servidor da Google e logo em seguida, o servidor \n
-irá te retornar a pesquisa feita.

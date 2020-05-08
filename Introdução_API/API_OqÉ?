@@ -1,9 +1,0 @@
-    Uma API é como se fosse um Software ou uma biblioteca, que serve para permitir \n
-que uma 'coisa' se comunique com essa outra 'coisa', ou seja, serve como interface.
-    
-    Ao exemplo, temos uma API gráfica, o openGL, que serve para se comunicar com a placa \n
-de video do computador, facilitando a comunicação entre o programador com a placa e facilitando \n
-também a manipulação da mesma;
-
-    Outro exemplo é a API do youtube. Essa API poderia ser utilizada para retornar, por exemplo, os \n
-os videos de um canal. Ou pode te retornar um resultado de to

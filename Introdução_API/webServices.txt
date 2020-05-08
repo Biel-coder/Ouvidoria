@@ -1,1 +1,0 @@
-    É uma API que funciona na web
