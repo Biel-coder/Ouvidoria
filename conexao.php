@@ -1,9 +1,4 @@
 <?php
-/*$servidor = "mysql669.umbler.com";
-$usuario = "solarteste";
-$senha = "2hWf?Yx3G{";
-$dbnome = "solarclientetest"; 
-*/
 
 $servidor = "localhost";
 $usuario = "root";
